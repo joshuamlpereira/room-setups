@@ -2,8 +2,8 @@
 
 To-scale floor plans for every table and chair setup in the meeting rooms at the UToledo Student Recreation Center: Maple, Willow, and Oak (Full Oak, Oak, the Double Meeting Room, Hickory and Sycamore).
 
-- [Room Setups page](index.html)
-- [Printable setup checklist](checklist.html) (4 letter pages, in setup order, with boxes to check off)
+- [Room Setups page](https://joshuamlpereira.github.io/room-setups/)
+- [Printable setup checklist](https://joshuamlpereira.github.io/room-setups/checklist.html) (4 letter pages, in setup order, with boxes to check off)
 
 ## What's in here
 
